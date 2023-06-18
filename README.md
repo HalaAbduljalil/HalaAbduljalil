@@ -11,7 +11,7 @@ About me
 - Software Engineer development, and Design Verification Trainee at Asal Technologies
 - I have a Bachelor degree in computer engineering.
 -  Always `learning new things`.
--  I’m currently open for a new `job opportunity`, this is [MY RESUME](..).
+-  I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Ui_Sv-7JZr2XiPWxlS0QRhHIIUavVa3l/view?usp=sharing).
 -  [my linkedin link ](https://www.linkedin.com/in/hala-abduljalil-494911232/)
 
 -  my email **halaabduljalil360@gmail.com**
