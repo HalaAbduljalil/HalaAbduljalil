@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Hala Abduljalil</h1>
 <h3 align="center">Computer Engineer from palestine.</h3>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+About me
 
-<picture> <img align="right" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif" width = 400px></picture>
+
 
 <br>
 
-- :school: I am a `senior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
-- :technologist:Software Engineer development, and Design Verification Trainee at Asal Technologies
-- :student: I have a Bachelor degree in computer engineering.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](..).
+-  I am a `senior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
+- Software Engineer development, and Design Verification Trainee at Asal Technologies
+- I have a Bachelor degree in computer engineering.
+-  Always `learning new things`.
+-  I’m currently open for a new `job opportunity`, this is [MY RESUME](..).
 -  [my linkedin link ](https://www.linkedin.com/in/hala-abduljalil-494911232/)
 
 -  my email **halaabduljalil360@gmail.com**
