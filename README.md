@@ -7,7 +7,7 @@ About me
 
 <br>
 
--  I am a `senior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
+-  I am a `junior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
 - Software Engineer development, and Design Verification Trainee at Asal Technologies
 - I have a Bachelor degree in computer engineering.
 -  Always `learning new things`.
