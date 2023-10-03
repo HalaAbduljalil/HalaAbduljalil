@@ -8,7 +8,7 @@ About me
 <br>
 
 -  I am a `junior` in Computer Engineering at [An_Najah National University](https://www.najah.edu/ar/) .
-- Software Engineer development, and Design Verification Trainee at Asal Technologies
+- Software Engineer development, Quality Assurance at QAcart, and Design Verification Trainee at Asal Technologies
 - I have a Bachelor degree in computer engineering.
 -  Always `learning new things`.
 -  I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Ui_Sv-7JZr2XiPWxlS0QRhHIIUavVa3l/view?usp=sharing).
